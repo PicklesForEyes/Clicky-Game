@@ -1,2 +1,1 @@
-# Clicky-Game
-Memory Game
+This is an application for use as a memory game
